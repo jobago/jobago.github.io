@@ -12,7 +12,7 @@ website:
       - href: publications.qmd
         text: Publications
       - href: software.qmd
-        text: Software
+        text: R packages
       - href: teaching.qmd
         text: Teaching
       - href: social.qmd
