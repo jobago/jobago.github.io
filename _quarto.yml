@@ -15,8 +15,6 @@ website:
         text: R packages
       - href: teaching.qmd
         text: Teaching
-      - href: social.qmd
-        text: Social
 
 format:
   html:
