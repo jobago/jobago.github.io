@@ -2,4 +2,14 @@
 title: "optimalAllocation"
 ---
 
-Texto aqui
+This package computes the optimal combination of number of participants and number of repeated measurements in longitudinal studies with fixed follow-up duration such that maximizes the power to detect the effect under the alternative hypothesis without exceeding a fixed budget or minimizes the cost of the study while achieving a certain power. Response variable is assumed to be continuous with damped exponential covariance structure and the exposure of interest is assumed to be binary which can be time-varying as well as its prevalence. The methods are described in the manuscript [Optimal combination of number of participants and number of repeated measurements in longitudinal studies with time-varying exposure](https://doi.org/10.1002/sim.5870).
+
+Download:
+
+* Package source: [optimalAllocation_1.0.tar.gz](materials/optimalAllocation_1.0.tar.gz)
+
+* Windows binary: [optimalAllocation_1.0.zip](materials/optimalAllocation_1.0.zip)
+
+* Reference manual: [optimalAllocation-manual.pdf](materials/optimalAllocation-manual.pdf)
+
+* Vignette: [optimalAllocation.pdf](materials/optimalAllocation.pdf)

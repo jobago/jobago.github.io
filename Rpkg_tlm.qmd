@@ -2,4 +2,8 @@
 title: "tlm"
 ---
 
-Texto aqui
+This package calculates measures of effect interpretable in the original scale of the variables in linear, logistic and Poisson regression models with transformations. It covers the cases of logarithmic or power transformations. The package provides both numerical and graphical outputs as well as information on interpreting results. The methods are described in the manuscript [Models with transformed variables: interpretation and software](https://doi.org/10.1097/EDE.0000000000000247).
+
+The package is available on CRAN: [https://CRAN.R-project.org/package=tlm](https://CRAN.R-project.org/package=tlm)
+
+An user's guide with detailed examples is available [here](https://cran.r-project.org/web/packages/tlm/vignettes/tlm.pdf).

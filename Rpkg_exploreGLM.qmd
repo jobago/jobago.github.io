@@ -2,4 +2,17 @@
 title: "exploreGLM"
 ---
 
-Texto aqui
+This package fits a Generalized Linear Model in a semi-automatic way and it is meant to whom are not familiar with these family of models. This preliminar version identifies and fits the appropriate model (linear, logistic, Poisson, or Logit for nominal or ordinal response), given the selected response variable. The package is the result of the Degree Final Project of Patricia Ballesta, which is available [here](materials/exploreGLM_memoria.pdf) (in Spanish).
+
+Download:
+
+* Package source: [exploreGLM_0.2.tar.gz](materials/exploreGLM_0.2.tar.gz)
+
+* Windows binary: [exploreGLM_0.2.zip](materials/exploreGLM_0.2.zip)
+
+* Reference manual: [exploreGLM-manual.pdf](materials/exploreGLM-manual.pdf)
+
+* Vignette: [User's guide](materials/exploreGLM.pdf)
+
+* Changes from previous versions: [NEWS](materials/NEWS.txt)
+    

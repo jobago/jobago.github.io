@@ -8,7 +8,7 @@ See publications at [Google Scholar](https://scholar.google.es/citations?user=FJ
 
 1.  Dadvand P, Basagaña X, Barrera-Gómez J, Diffey B, Nieuwenhuijsen M. [Measurement errors in the assessment of exposure to solar ultraviolet radiation and its impact on risk estimates in epidemiological studies](https://doi.org/10.1039/C0PP00333F). Photochemical & Photobiological Sciences. 2011;10(7):1161-1168. doi:10.1039/C0PP00333F.
 
-2.  Basagaña X, Sartini C^*^, Barrera-Gómez J^*^, Dadvand P, Cunillera J, Ostro B, Sunyer J, Medina-Ramón M. [Heat waves and cause-specific mortality at all ages](https://doi.org/10.1097/EDE.0b013e31823031c5). Epidemiology. 2011;22(6):765-772. doi:10.1097/EDE.0b013e31823031c5.
+2.  Basagaña X, Sartini C^\*^, Barrera-Gómez J^\*^, Dadvand P, Cunillera J, Ostro B, Sunyer J, Medina-Ramón M. [Heat waves and cause-specific mortality at all ages](https://doi.org/10.1097/EDE.0b013e31823031c5). Epidemiology. 2011;22(6):765-772. doi:10.1097/EDE.0b013e31823031c5.
 
 3.  Ostro B, Barrera-Gómez J, Ballester J, Basagaña X, Sunyer J. [The impact of future summer temperature on public health in Barcelona and Catalonia, Spain](https://doi.org/10.1007/s00484-012-0529-7). International Journal of Biometeorology. 2012;56(6):1135-1144. doi:10.1007/s00484-012-0529-7.
 
@@ -56,7 +56,7 @@ See publications at [Google Scholar](https://scholar.google.es/citations?user=FJ
 
 25. Khomenko S, Cirach M, Pereira-Barboza E, Mueller N, Barrera-Gómez J, Rojas-Rueda D, de Hoogh K, Hoek G, Nieuwenhuijsen M. [Premature mortality due to air pollution in European cities: a health impact assessment](https://doi.org/10.1016/S2542-5196(20)30272-2). The Lancet Planetary Health. 2021;5(3):e121:e134. doi:10.1016/S2542-5196(20)30272-2.
 
-26. Ho JY, Zijlema WL, Triguero-Mas M, Donaire-Gonzalez D, Valentín A, Ballester J, Chan EYY, Goggins WB, Mo PKH, Kruize H, van den Berg M, Gražulevicien R, Gidlow CJ, Jerrett M, Seto EYW, Barrera-Gómez J^*^, Nieuwenhuijsen MJ^*^. [Does surrounding greenness moderate the relationship between apparent temperature and physical activity? Findings from the PHENOTYPE project](https://doi.org/10.1016/j.envres.2021.110992). Environmental Research. 2021 ;197:110992. doi:10.1016/j.envres.2021.110992.
+26. Ho JY, Zijlema WL, Triguero-Mas M, Donaire-Gonzalez D, Valentín A, Ballester J, Chan EYY, Goggins WB, Mo PKH, Kruize H, van den Berg M, Gražulevicien R, Gidlow CJ, Jerrett M, Seto EYW, Barrera-Gómez J^\*^, Nieuwenhuijsen MJ^\*^. [Does surrounding greenness moderate the relationship between apparent temperature and physical activity? Findings from the PHENOTYPE project](https://doi.org/10.1016/j.envres.2021.110992). Environmental Research. 2021 ;197:110992. doi:10.1016/j.envres.2021.110992.
 
 27. Gignac F, Barrera-Gómez J, Persavento C, Solé C, Tena È, López-Vicente M, Foraster M, Amato F, Alastuey A, Querol X, Llavador H, Apesteguia J, Júlvez J, Couso D, Sunyer J, Basagaña X. [Short-term effect of air pollution on attention function in adolescents (ATENC!Ó): A randomized controlled trial in high schools in Barcelona, Spain](https://doi.org/10.1016/j.envint.2021.106614). Environment International. 2021;156:106614. doi:10.1016/j.envint.2021.106614.
 
@@ -84,8 +84,8 @@ See publications at [Google Scholar](https://scholar.google.es/citations?user=FJ
 
 ### Other
 
-1.  Barrera-Gómez J. Anàlisi dels factors associats a l'assoliment d'algunes competències bàsiques en l'àrea de matemàtiques: Una proposta de millora en la connexió curricular en la transició primària-secundària. Generalitat de Catalunya. Departament d'Educació, 2009. Barcelona. <https://hdl.handle.net/20.500.12694/2485>. This was a one year grant (2008-2009 academic year) by the Education Department of the Catalan Government for the project.
+1.  Barrera-Gómez J. [Anàlisi dels factors associats a l'assoliment d'algunes competències bàsiques en l'àrea de matemàtiques: Una proposta de millora en la connexió curricular en la transició primària-secundària](materials/Informe_projecte.pdf). Generalitat de Catalunya. Departament d'Educació, 2009. Barcelona. This was a one year grant (2008-2009 academic year) by the Education Department of the Catalan Government for the project.
 
-2.  Llobet B, López-Ros V, Barrera-Gómez J, Comino J. [Assessing novices' game performance in rugby union: the Rugby Attack Assessment Instrument (RAAI)](https://doi.org/10.1123/jtpe.2014-1034). Journal of Teaching in Physical Education. 2016;35(2):181-186. doi:10.1123/jtpe.2014-1034. <font color="red">Software, enlace pendiente</font>
+2.  Llobet B, López-Ros V, Barrera-Gómez J, Comino J. [Assessing novices' game performance in rugby union: the Rugby Attack Assessment Instrument (RAAI)](https://doi.org/10.1123/jtpe.2014-1034). Journal of Teaching in Physical Education. 2016;35(2):181-186. doi:10.1123/jtpe.2014-1034. [Software](Rpkg_IP.qmd)
 
 3.  Herreros A, Perez-Calatayud J, Ballester F, Barrera-Gómez J, Abellana R, Melo J, Moutinho L, Tagliaferri L, Rovirosa Á. [In vivo verification of treatment source dwell times in brachytherapy of postoperative endometrial carcinoma](https://doi.org/10.3390/jpm12060911). Journal of Personalized Medicine. 2022;12(6):911. doi:10.3390/jpm12060911.

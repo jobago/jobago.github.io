@@ -2,4 +2,8 @@
 title: "collin"
 ---
 
-Texto aqui
+This package implements a visual tool to assessing whether the results of a study could be driven by collinearity. The tool focuses in distributed lag models but other regression models can also be explored. The methods are described in the manuscript [Reflection on modern methods: Visualizing the effects of collinearity in distributed lag models](https://doi.org/10.1093/ije/dyab179).
+
+The package is available on CRAN: [https://CRAN.R-project.org/package=collin](https://CRAN.R-project.org/package=collin)
+
+An user's guide with detailed examples is available [here](https://cran.r-project.org/web/packages/collin/vignettes/collin.pdf).

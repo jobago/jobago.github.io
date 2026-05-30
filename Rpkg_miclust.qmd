@@ -2,4 +2,6 @@
 title: "miclust"
 ---
 
-Texto aqui
+This package performs cluster analysis with selection of the final number of clusters and an optional variable selection procedure. The package is designed to integrate the results of multiply imputed datasets while accounting for the uncertainty that the imputations introduce in the final results. The methods are described in the manuscript [A framework for multiple imputation in cluster analysis](https://doi.org/10.1093/aje/kws289).
+
+The package is available on CRAN: [https://CRAN.R-project.org/package=miclust](https://CRAN.R-project.org/package=miclust)
