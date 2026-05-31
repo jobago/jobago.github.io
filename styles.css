@@ -1,0 +1,15 @@
+/* css styles */
+/* Quitar el subrayado de los enlaces de la web */
+a {
+  text-decoration: none;
+}
+
+/* Justificar todos los parrafos de la web a derecha e izquierda */
+p {
+  text-align: justify;
+}
+
+/* Eliminar la rule fina debajo de las secciones */
+h2 {
+  border-bottom: none;
+}
