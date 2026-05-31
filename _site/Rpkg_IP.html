@@ -71,6 +71,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -143,7 +172,15 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Texto aqui</p>
+<p>This package computes the Index of Performance (IP) of the Rugby Attack Assessment Instrument (RAAI). It also compares two IP scores estimating a confidence interval for the difference as well as a measure of significance (<span class="math inline">\(p\)</span>-value). The RAAI is an assessment instrument of game performance in rugby union. It is based on assessing both the frequency and the tactical value of the actions of the ball carrier. The methods are described in the manuscript <a href="https://doi.org/10.1123/jtpe.2014-0134">Assessing novices’ game performance in rugby union: the Rugby Attack Assessment Instrument (RAAI)</a>.</p>
+<p>Download:</p>
+<ul>
+<li><p>Package source: <a href="materials/IP_0.6.tar.gz">IP_0.6.tar.gz</a></p></li>
+<li><p>Windows binary: <a href="materials/IP_0.6.zip">IP_0.6.zip</a></p></li>
+<li><p>Reference manual: <a href="materials/IP-manual.pdf">IP-manual.pdf</a></p></li>
+<li><p>Vignette: <a href="materials/IP.pdf">User’s guide</a></p></li>
+<li><p>Template files to store the data needed for the IP calculations: <a href="materials/IPdata.xls">IPdata.xls</a> and <a href="materials/IPdata.csv">IPdata.csv</a></p></li>
+</ul>
 
 
 

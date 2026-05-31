@@ -2,4 +2,16 @@
 title: "IP"
 ---
 
-Texto aqui
+This package computes the Index of Performance (IP) of the Rugby Attack Assessment Instrument (RAAI). It also compares two IP scores estimating a confidence interval for the difference as well as a measure of significance ($p$-value). The RAAI is an assessment instrument of game performance in rugby union. It is based on assessing both the frequency and the tactical value of the actions of the ball carrier. The methods are described in the manuscript [Assessing novices' game performance in rugby union: the Rugby Attack Assessment Instrument (RAAI)](https://doi.org/10.1123/jtpe.2014-0134).
+
+Download:
+
+- Package source: [IP_0.6.tar.gz](materials/IP_0.6.tar.gz)
+
+- Windows binary: [IP_0.6.zip](materials/IP_0.6.zip)
+
+- Reference manual: [IP-manual.pdf](materials/IP-manual.pdf)
+
+- Vignette: [User's guide](materials/IP.pdf)
+
+- Template files to store the data needed for the IP calculations: [IPdata.xls](materials/IPdata.xls) and [IPdata.csv](materials/IPdata.csv)

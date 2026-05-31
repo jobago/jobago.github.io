@@ -86,6 +86,6 @@ See publications at [Google Scholar](https://scholar.google.es/citations?user=FJ
 
 1.  Barrera-Gómez J. [Anàlisi dels factors associats a l'assoliment d'algunes competències bàsiques en l'àrea de matemàtiques: Una proposta de millora en la connexió curricular en la transició primària-secundària](materials/Informe_projecte.pdf). Generalitat de Catalunya. Departament d'Educació, 2009. Barcelona. This was a one year grant (2008-2009 academic year) by the Education Department of the Catalan Government for the project.
 
-2.  Llobet B, López-Ros V, Barrera-Gómez J, Comino J. [Assessing novices' game performance in rugby union: the Rugby Attack Assessment Instrument (RAAI)](https://doi.org/10.1123/jtpe.2014-1034). Journal of Teaching in Physical Education. 2016;35(2):181-186. doi:10.1123/jtpe.2014-1034. [Software](Rpkg_IP.qmd)
+2.  Llobet B, López-Ros V, Barrera-Gómez J, Comino J. [Assessing novices' game performance in rugby union: the Rugby Attack Assessment Instrument (RAAI)](https://doi.org/10.1123/jtpe.2014-0134). Journal of Teaching in Physical Education. 2016;35(2):181-186. doi:10.1123/jtpe.2014-1034. [Software](Rpkg_IP.qmd)
 
 3.  Herreros A, Perez-Calatayud J, Ballester F, Barrera-Gómez J, Abellana R, Melo J, Moutinho L, Tagliaferri L, Rovirosa Á. [In vivo verification of treatment source dwell times in brachytherapy of postoperative endometrial carcinoma](https://doi.org/10.3390/jpm12060911). Journal of Personalized Medicine. 2022;12(6):911. doi:10.3390/jpm12060911.

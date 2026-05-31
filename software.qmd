@@ -21,7 +21,3 @@ title: "R packages"
 ### Just for fun
 
 - **christmas** Generates a number of Christmas cards, most of them being animated. The name of each card includes the year in which it was created. [Package](Rpkg_christmas.qmd)
-
-### R miscellanea
-
-- Adding percentage labels to pie charts and bar plots ([scripts](materials/percentLabelsPiechartBarplot.R))

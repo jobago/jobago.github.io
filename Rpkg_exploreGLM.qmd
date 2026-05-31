@@ -6,13 +6,12 @@ This package fits a Generalized Linear Model in a semi-automatic way and it is m
 
 Download:
 
-* Package source: [exploreGLM_0.2.tar.gz](materials/exploreGLM_0.2.tar.gz)
+- Package source: [exploreGLM_0.2.tar.gz](materials/exploreGLM_0.2.tar.gz)
 
-* Windows binary: [exploreGLM_0.2.zip](materials/exploreGLM_0.2.zip)
+- Windows binary: [exploreGLM_0.2.zip](materials/exploreGLM_0.2.zip)
 
-* Reference manual: [exploreGLM-manual.pdf](materials/exploreGLM-manual.pdf)
+- Reference manual: [exploreGLM-manual.pdf](materials/exploreGLM-manual.pdf)
 
-* Vignette: [User's guide](materials/exploreGLM.pdf)
+- Vignette: [User's guide](materials/exploreGLM.pdf)
 
-* Changes from previous versions: [NEWS](materials/NEWS.txt)
-    
+- Changes from previous versions: [NEWS](materials/NEWS.txt)
