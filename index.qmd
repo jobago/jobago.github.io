@@ -5,7 +5,7 @@ date-format: "MMMM Do, YYYY"
 published-title: "Updated"
 image: images/foto_jose.jpg
 about:
-  template: solana # trestles
+  template: solana
   image-width: 10em
   image-shape: rounded
   links:
