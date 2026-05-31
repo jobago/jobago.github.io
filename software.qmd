@@ -1,23 +1,22 @@
 ---
 title: "R packages"
+# title-block-banner: "materials/banner_software_code.png"
 ---
+
+<img src="images/banner_software_code.png" style="width: 68%; height: auto; border-radius: 4px; margin-top: -10px; margin-left: -4mm; margin-bottom: 30px;">
 
 ### At ISGlobal
 
-- **collin** Visualizing the effects of collinearity in distributed lag models. [Package](Rpkg_collin.qmd)
+* **collin** Visualizing the effects of collinearity in distributed lag models. [Package](Rpkg_collin.qmd)
+* **miclust** Multiple imputation in cluster analysis. [Package](Rpkg_miclust.qmd)
+* **optimalAllocation** Optimal allocation for longitudinal studies with time-varying exposure. [Package](Rpkg_optimalAllocation.qmd)
+* **tlm** Effects under linear, logistic and Poisson regression models with transformed variables. [Package](Rpkg_tlm.qmd)
 
-- **miclust** Multiple imputation in cluster analysis. [Package](Rpkg_miclust.qmd)
+### Other collaborations
 
-- **optimalAllocation** Optimal allocation for longitudinal studies with time-varying exposure. [Package](Rpkg_optimalAllocation.qmd)
-
-- **tlm** Effects under linear, logistic and Poisson regression models with transformed variables. [Package](Rpkg_tlm.qmd)
-
-### Other collaborations and teaching activities
-
-- **exploreGLM** Descriptive analysis and Generalized Linear Model exploration. [Package](Rpkg_exploreGLM.qmd)
-
-- **IP** Index of Performance (IP) for the Rugby Attack Assessment Instrument (RAAI). [Package](Rpkg_IP.qmd)
+* **exploreGLM** Descriptive analysis and Generalized Linear Model exploration. [Package](Rpkg_exploreGLM.qmd)
+* **IP** Index of Performance (IP) for the Rugby Attack Assessment Instrument (RAAI). [Package](Rpkg_IP.qmd)
 
 ### Just for fun
 
-- **christmas** Generates a number of Christmas cards, most of them being animated. The name of each card includes the year in which it was created. [Package](Rpkg_christmas.qmd)
+* **christmas** Generates a number of Christmas cards, most of them being animated. The name of each card includes the year in which it was created. [Package](Rpkg_christmas.qmd)

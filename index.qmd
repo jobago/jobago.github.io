@@ -1,5 +1,8 @@
 ---
 title: "Jose Barrera-Gómez"
+date: last-modified
+date-format: "MMMM Do, YYYY"
+published-title: "Updated"
 image: images/foto_jose.jpg
 about:
   template: solana # trestles
@@ -114,7 +117,7 @@ Previously, I was working for 14 years as civil servant mathematics teacher in h
 - BSc in Statistics (Universitat Autònoma de Barcelona, 2007). Extraordinary End-of-Degree Award for the best academic record
 - BSc in Physics (Universitat de Barcelona, 1994)
 
-### Professional experience
+### Experience
 
 - Statistician & Data Analyst at ISGlobal (former CREAL) since October 2009
 - Associate Lecturer at Department of Mathematics, Universitat Autònoma de Barcelona since February 2008
