@@ -25,6 +25,10 @@ format:
 
 editor: visual
 
+about:
+  template: solana
+  id: about-me
+
 
 # =============================================================================
 # CONFIGURACIÓN ANTERIOR GUARDADA (COMENTADA):

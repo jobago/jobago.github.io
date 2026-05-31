@@ -37,7 +37,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -147,31 +146,19 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
-    </div>
+    
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-about-solana column-page">
+  <div class="about-entity">
+    <div class="entity-contents">
+      <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">IP</h1>
 </div>
-
-
-
 <div class="quarto-title-meta column-page">
-
-    
-  
-    
   </div>
-  
-
-
-</header>
-
-
+</header> 
+      <div class="about-contents"><main class="content column-page" id="quarto-document-content">
 <p>This package computes the Index of Performance (IP) of the Rugby Attack Assessment Instrument (RAAI). It also compares two IP scores estimating a confidence interval for the difference as well as a measure of significance (<span class="math inline">\(p\)</span>-value). The RAAI is an assessment instrument of game performance in rugby union. It is based on assessing both the frequency and the tactical value of the actions of the ball carrier. The methods are described in the manuscript <a href="https://doi.org/10.1123/jtpe.2014-0134">Assessing novices’ game performance in rugby union: the Rugby Attack Assessment Instrument (RAAI)</a>.</p>
 <p>Download:</p>
 <ul>
@@ -183,17 +170,13 @@ window.Quarto = {
 </ul>
 
 
-
-</main> <!-- /main -->
+</main></div>
+    </div>
+  </div>
+</div>
+ <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
-    const icon = "";
-    const anchorJS = new window.AnchorJS();
-    anchorJS.options = {
-      placement: 'right',
-      icon: icon
-    };
-    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     
