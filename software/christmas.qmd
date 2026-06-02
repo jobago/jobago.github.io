@@ -1,0 +1,13 @@
+---
+title: "christmas"
+---
+
+This package generates a number of Christmas cards, most of them being animated. The name of each card includes the year in which it was created. Futher details can be found [here](https://cran.r-project.org/web/packages/christmas/readme/README.html).
+
+The package is available on CRAN: <https://CRAN.R-project.org/package=christmas><br><br><br>
+
+**A small historical footnote**
+
+When GitHub created its 2020 [Archive Program](https://archiveprogram.github.com/) snapshot, this package was among the repositories selected for long-term preservation. A copy of the source code is now stored in the [Arctic Code Vault](https://archiveprogram.github.com/arctic-vault/), a secure archive located about 250 metres inside an Arctic mountain in [Svalbard, Norway](https://maps.app.goo.gl/vA3NfiG1Yinhy1gs5). The archive is designed to preserve open-source software for at least 1,000 years.
+
+While it is not a software award or a badge of quality, just an interesting piece of trivia, it's certainly fun to know that this little `christmas` package is literally archived in the Arctic for future generations.

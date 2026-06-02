@@ -3,9 +3,11 @@ project:
 
 website:
   title: "Jose Barrera-Gómez"
+  favicon: images/favicon.png
+  back-to-top-navigation: true
   navbar:
     background: white
-    search: false
+    search: true
     left:
       - href: index.qmd
         text: Welcome!
