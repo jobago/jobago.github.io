@@ -1,6 +1,6 @@
 ---
 title: "Jose Barrera-Gómez"
-date: last-modified
+date: today        # <--- Cambia 'last-modified' por 'today'
 date-format: "MMMM Do, YYYY"
 published-title: "Updated"
 image: images/foto_jose.jpg
