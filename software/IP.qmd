@@ -6,12 +6,12 @@ This package computes the Index of Performance (IP) of the Rugby Attack Assessme
 
 Download:
 
-- Package source: [IP_0.6.tar.gz](materials/IP_0.6.tar.gz)
+- Package source: [IP_0.6.tar.gz](../materials/IP_0.6.tar.gz)
 
-- Windows binary: [IP_0.6.zip](materials/IP_0.6.zip)
+- Windows binary: [IP_0.6.zip](../materials/IP_0.6.zip)
 
-- Reference manual: [IP-manual.pdf](materials/IP-manual.pdf)
+- Reference manual: [IP-manual.pdf](../materials/IP-manual.pdf)
 
-- Vignette: [User's guide](materials/IP.pdf)
+- Vignette: [User's guide](../materials/IP.pdf)
 
-- Template files to store the data needed for the IP calculations: [IPdata.xls](materials/IPdata.xls) and [IPdata.csv](materials/IPdata.csv)
+- Template files to store the data needed for the IP calculations: [IPdata.xls](materials/IPdata.xls) and [IPdata.csv](../materials/IPdata.csv)

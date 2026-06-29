@@ -76,7 +76,7 @@ title: "Teaching"
 
 - *Efecto de la crisis económica en la asociación entre la privación socioeconómica y la mortalidad por causas externas en Barcelona*. Mercè Gotsens Miquel. Grado en Estadística Aplicada, Universitat Autònoma de Barcelona. 2015.
 
-- [*exploreGLM*](Rpkg_exploreGLM.qmd)*: Exploración automática de un Modelo Lineal Generalizado mediante la creación de un paquete para el software estadístico R*. Patricia Ballesta Torre. Grado en Estadística Aplicada, Universitat Autònoma de Barcelona. 2013.
+- [*exploreGLM*](software/exploreGLM.qmd)*: Exploración automática de un Modelo Lineal Generalizado mediante la creación de un paquete para el software estadístico R*. Patricia Ballesta Torre. Grado en Estadística Aplicada, Universitat Autònoma de Barcelona. 2013.
 
 ### Miscellanea
 

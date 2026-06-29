@@ -3,7 +3,7 @@ title: "Publications"
 # title-block-banner: "materials/banner_publications_formulas.png"
 ---
 
-<img src="images/banner_publications_formulas.png" style="width: 68%; height: auto; border-radius: 4px; margin-top: -10px; margin-left: -4mm; margin-bottom: 30px;">
+<img src="images/banner_publications_formulas.png" style="width: 68%; height: auto; border-radius: 4px; margin-top: -10px; margin-left: -4mm; margin-bottom: 30px;"/>
 
 See publications at [Google Scholar](https://scholar.google.es/citations?user=FJMj2PgAAAAJ&hl=en) and [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Barrera-G%C3%B3mez+J&sort=date).
 
@@ -15,13 +15,13 @@ See publications at [Google Scholar](https://scholar.google.es/citations?user=FJ
 
 3.  Ostro B, Barrera-Gómez J, Ballester J, Basagaña X, Sunyer J. [The impact of future summer temperature on public health in Barcelona and Catalonia, Spain](https://doi.org/10.1007/s00484-012-0529-7). International Journal of Biometeorology. 2012;56(6):1135-1144. doi:10.1007/s00484-012-0529-7.
 
-4.  Basagaña X, Barrera-Gómez J, Benet M, Antó JM, Garcia-Aymerich J. [A framework for multiple imputation in cluster analysis](https://doi.org/10.1093/aje/kws289). American Journal of Epidemiology. 2013;177(7):718-725. doi:10.1093/aje/kws289. [Software](Rpkg_miclust.qmd).
+4.  Basagaña X, Barrera-Gómez J, Benet M, Antó JM, Garcia-Aymerich J. [A framework for multiple imputation in cluster analysis](https://doi.org/10.1093/aje/kws289). American Journal of Epidemiology. 2013;177(7):718-725. doi:10.1093/aje/kws289. [Software](software/miclust.qmd).
 
 5.  Xu Y, Dadvand P, Barrera-Gómez J, Sartini C, Marí-Dell'Olmo M, Borrell C, Medina-Ramón M, Sunyer J, Basagaña X. [Differences on the effect of heat waves on mortality by socio-demographic and urban landscape characteristics](https://doi.org/10.1136/jech-2012-201899). Journal of Epidemiology & Community Health. 2013;67(6):519-525. doi:10.1136/jech-2012-201899.
 
 6.  Samoli E, Stafoggia M, Rodopoulou S, Ostro B, Declercq C, Alessandrini E, Díaz J, Karanasiou A, Kelessis AG, Le Tertre A, Pandolfi P, Randi G, Scarinzi C, Zauli-Sajani S, Katsouyanni K, Forastiere F; MED-PARTICLES Study Group (..., Barrera-Gómez J, ...). [Associations between fine and coarse particles and mortality in Mediterranean cities: results from the MED-PARTICLES project](https://doi.org/10.1289/ehp.1206124). Environmental Health Perspectives. 2013;121(8):932-938. doi: 10.1289/ehp.1206124.
 
-7.  Barrera-Gómez J, Spiegelman D, Basagaña X. [Optimal combination of number of participants and number of repeated measurements in longitudinal studies with time-varying exposure](https://doi.org/10.1002/sim.5870). Statistics in Medicine. 2013;32(27):4748-4762. doi:10.1002/sim.5870. [Software](Rpkg_optimalAllocation.qmd).
+7.  Barrera-Gómez J, Spiegelman D, Basagaña X. [Optimal combination of number of participants and number of repeated measurements in longitudinal studies with time-varying exposure](https://doi.org/10.1002/sim.5870). Statistics in Medicine. 2013;32(27):4748-4762. doi:10.1002/sim.5870. [Software](software/optimalAllocation.qmd).
 
 8.  Stafoggia M, Samoli E, Alessandrini E, Cadum E, Ostro B, Berti G, Faustini A, Jacquemin B, Linares C, Pascal M, Randi G, Ranzi A, Stivanello E, Forastiere F; MED-PARTICLES Study Group (..., Barrera-Gómez J, ...). [Short-term associations between fine and coarse particulate matter and hospitalizations in Southern Europe: results from the MED-PARTICLES project](https://doi.org/10.1289/ehp.1206151). Environmental Health Perspectives. 2013;121(9):1026-1033. doi:10.1289/ehp.1206151.
 
@@ -33,7 +33,7 @@ See publications at [Google Scholar](https://scholar.google.es/citations?user=FJ
 
 12. Basagaña X, Jacquemin B, Karanasiou A, Ostro B, Querol X, Agis D, Alessandrini E, Alguacil J, Artiñano B, Catrambone M, de la Rosa JD, Díaz J, Faustini A, Ferrari S, Forastiere F, Katsouyanni K, Linares C, Perrino C, Ranzi A, Ricciardelli I, Samoli E, Zauli-Sajani S, Sunyer J, Stafoggia M; on behalf of the MED-PARTICLES Study group (..., Barrera-Gómez J, ...). [Short-term effects of particulate matter constituents on daily hospitalizations and mortality in five South-European cities: Results from the MED-PARTICLES project](https://doi.org/10.1016/j.envint.2014.11.011). Environment International. 2015;75:151-158. doi:10.1016/j.envint.2014.11.011.
 
-13. Barrera-Gómez J, Basagaña X. [Models with transformed variables: Interpretation and software](https://doi.org/10.1097/EDE.0000000000000247). Epidemiology. 2015;26(2):e16-17. doi:10.1097/EDE.0000000000000247. [Software](Rpkg_tlm.qmd)
+13. Barrera-Gómez J, Basagaña X. [Models with transformed variables: Interpretation and software](https://doi.org/10.1097/EDE.0000000000000247). Epidemiology. 2015;26(2):e16-17. doi:10.1097/EDE.0000000000000247. [Software](software/tlm.qmd)
 
 14. Faustini A, Alessandrini ER, Pey J, Perez N, Samoli E, Querol X, Cadum E, Perrino C, Ostro B, Ranzi A, Sunyer J, Stafoggia M, Forastiere F; MED-PARTICLES study group (..., Barrera-Gómez J, ...). [Short-term effects of particulate matter on mortality during forest fires in Southern Europe: Results of the MED-PARTICLES Project](https://doi.org/10.1136/oemed-2014-102459). Occupational and Environmental Medicine. 2015;72(5):323-329. doi:10.1136/oemed-2014-102459.
 
@@ -77,7 +77,7 @@ See publications at [Google Scholar](https://scholar.google.es/citations?user=FJ
 
 34. Nieuwenhuijsen M, Barrera-Gómez J, Basagaña X, Cirach M, Daher C, Foraster M, Iungman T, Gasparrini A, Hoek G, de Hoogh K, Khomenko S, Khreis H, de Nazelle A, Ramos A, Rojas-Rueda D, Pereira Barboza E, Tainio M, Thondoo M, Tonne C, Woodcock J, Mueller N. [Study protocol of the European Urban Burden of Disease Project: A health impact assessment study](https://doi.org/10.1136/bmjopen-2021-054270). BMJ Open. 2022;12:e054270. doi:10.1136/bmjopen-2021-054270.
 
-35. Basagaña X, Barrera-Gómez J. [Reflection on modern methods: Visualizing the effects of collinearity in distributed lag models](https://doi.org/10.1093/ije/dyab179). International Journal of Epidemiology. 2022;51(1):334-344. doi:10.1093/ije/dyab179. [Software](Rpkg_collin.qmd)
+35. Basagaña X, Barrera-Gómez J. [Reflection on modern methods: Visualizing the effects of collinearity in distributed lag models](https://doi.org/10.1093/ije/dyab179). International Journal of Epidemiology. 2022;51(1):334-344. doi:10.1093/ije/dyab179. [Software](software/collin.qmd)
 
 36. Khomenko S, Cirach M, Barrera-Gómez J, Pereira Barboza E, Iungman T, Mueller N, Foraster M, Tonne C, Thondoo M, Jephcote C, Gulliver J, Woodcock J, Nieuwenhuijsen M. [Impact of road traffic noise on annoyance and preventable mortality in European cities: A health impact assessment](https://doi.org/10.1016/j.envint.2022.107160). Environment International. 2022;162:107160. doi:10.1016/j.envint.2022.107160.
 
@@ -89,6 +89,6 @@ See publications at [Google Scholar](https://scholar.google.es/citations?user=FJ
 
 1.  Barrera-Gómez J. [Anàlisi dels factors associats a l'assoliment d'algunes competències bàsiques en l'àrea de matemàtiques: Una proposta de millora en la connexió curricular en la transició primària-secundària](materials/Informe_projecte.pdf). Generalitat de Catalunya. Departament d'Educació, 2009. Barcelona. This was a one year grant (2008-2009 academic year) by the Education Department of the Catalan Government for the project.
 
-2.  Llobet B, López-Ros V, Barrera-Gómez J, Comino J. [Assessing novices' game performance in rugby union: the Rugby Attack Assessment Instrument (RAAI)](https://doi.org/10.1123/jtpe.2014-0134). Journal of Teaching in Physical Education. 2016;35(2):181-186. doi:10.1123/jtpe.2014-1034. [Software](Rpkg_IP.qmd)
+2.  Llobet B, López-Ros V, Barrera-Gómez J, Comino J. [Assessing novices' game performance in rugby union: the Rugby Attack Assessment Instrument (RAAI)](https://doi.org/10.1123/jtpe.2014-0134). Journal of Teaching in Physical Education. 2016;35(2):181-186. doi:10.1123/jtpe.2014-1034. [Software](software/IP.qmd)
 
 3.  Herreros A, Perez-Calatayud J, Ballester F, Barrera-Gómez J, Abellana R, Melo J, Moutinho L, Tagliaferri L, Rovirosa Á. [In vivo verification of treatment source dwell times in brachytherapy of postoperative endometrial carcinoma](https://doi.org/10.3390/jpm12060911). Journal of Personalized Medicine. 2022;12(6):911. doi:10.3390/jpm12060911.

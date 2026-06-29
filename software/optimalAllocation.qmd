@@ -6,10 +6,10 @@ This package computes the optimal combination of number of participants and numb
 
 Download:
 
-- Package source: [optimalAllocation_1.0.tar.gz](materials/optimalAllocation_1.0.tar.gz)
+- Package source: [optimalAllocation_1.0.tar.gz](../materials/optimalAllocation_1.0.tar.gz)
 
-- Windows binary: [optimalAllocation_1.0.zip](materials/optimalAllocation_1.0.zip)
+- Windows binary: [optimalAllocation_1.0.zip](../materials/optimalAllocation_1.0.zip)
 
-- Reference manual: [optimalAllocation-manual.pdf](materials/optimalAllocation-manual.pdf)
+- Reference manual: [optimalAllocation-manual.pdf](../materials/optimalAllocation-manual.pdf)
 
-- Vignette: [optimalAllocation.pdf](materials/optimalAllocation.pdf)
+- Vignette: [optimalAllocation.pdf](../materials/optimalAllocation.pdf)
